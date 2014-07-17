@@ -1,4 +1,4 @@
-title:            @temonehm personal blog
+title:            temonehm personal blog
 description:      bloging everywhere
 logo:             site-logo.png
 disqus_shortname:
@@ -13,7 +13,7 @@ owner:
   avatar:         bio-photo.jpg
   email:          eko@mindtalk.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        @temonehm
+  twitter:	temonehm
   facebook:
   github:
   stackexchange:
