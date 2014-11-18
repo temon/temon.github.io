@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kalau tidak bisa sync karena teralalu banyak file dalam satu folder"
+title: "Tidak bisa sync karena teralalu banyak file dalam satu folder"
 description: "Karena hidup itu indah pada waktunya"
 modified: {}
 category: articles
