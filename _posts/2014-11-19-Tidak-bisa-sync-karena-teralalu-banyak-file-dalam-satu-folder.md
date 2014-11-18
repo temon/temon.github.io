@@ -27,11 +27,13 @@ Maka solusinya saya pindah ke bebrapa folder, agar bisa di sync nantinya.
 
 ```bash
 for i in {1000000..9999999}; do s3cmd ls s3://bucket/full/${i}-* | awk '{print $4 " s3://bucket/pisah/"}' | xargs s3cmd mv; done;
+```
 
-
+```bash
 for i in {10000000..99999999}; do s3cmd ls s3://bucket/full/${i}-* | awk '{print $4 " s3://bucket/pisah/"}' | xargs s3cmd mv; done;
+```
 
-
+```bash
 for i in {100000000..999999999}; do s3cmd ls s3://bucket/full/${i}-* | awk '{print $4 " s3://bucket/pisah/"}' | xargs s3cmd mv; done;
 ```
 
